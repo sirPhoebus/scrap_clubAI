@@ -1,0 +1,5 @@
+{
+  "name": "ChatLog Visualizer",
+  "description": "A client-side chat log parser and viewer featuring fuzzy search, infinite scrolling, and a modern card-based UI.",
+  "requestFramePermissions": []
+}
